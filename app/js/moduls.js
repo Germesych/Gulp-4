@@ -1,0 +1,1 @@
+const varsCon = 'File - moduls.js';
