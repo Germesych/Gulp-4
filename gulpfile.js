@@ -78,7 +78,7 @@ function buildcopy(){
 
 //Отслеживание измения в файлах
 function startwatch(){
-  watch('app/**/' + preprocessor + '**/*', styles);
+  watch('app/sass/**/*', styles);
   watch([
     'app/**/*.js',
     '!app/**/*.min.js', //Исвключаем его в отслеживании

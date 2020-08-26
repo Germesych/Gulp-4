@@ -1,3 +1,8 @@
-body{
-  background: #fde400;
-}
+@import 'moduls/_normalize';
+@import 'moduls/_var';
+@import 'moduls/_main';
+@import 'moduls/_nav';
+@import 'moduls/_header';
+@import 'moduls/_block';
+@import 'moduls/_form';
+@import 'moduls/_footer';
