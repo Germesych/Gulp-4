@@ -6,3 +6,6 @@
 @import 'moduls/_block';
 @import 'moduls/_form';
 @import 'moduls/_footer';
+body{
+    display: grid;
+}

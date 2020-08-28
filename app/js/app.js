@@ -1,3 +1,1 @@
-const startScr = 'File app.js';
-const name = 1
-console.log('Work')
+console.log('app.js it work')
