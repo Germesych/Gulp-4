@@ -1,11 +1,16 @@
 @import 'moduls/_normalize';
+@import 'moduls/_reset';
+@import 'bootstrap/_bootstrap-reboot';
 @import 'moduls/_var';
+@import 'bootstrap/_bootstrap-grid';
+@import 'bootstrap/_bootstrap';
 @import 'moduls/_main';
 @import 'moduls/_nav';
 @import 'moduls/_header';
 @import 'moduls/_block';
 @import 'moduls/_form';
 @import 'moduls/_footer';
+@import 'moduls/_media';
 body{
     display: grid;
 }
